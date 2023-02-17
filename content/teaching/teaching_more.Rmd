@@ -2,7 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: markdown
-type: landing
+# type: landing
 
 # This file represents a page section.
 headless: true
@@ -11,12 +11,12 @@ headless: true
 weight: 30
 
 title: Teaching
-subtitle: 'UFMG'
-date: ' '
+subtitle: UFMG
+date: FALSE
 
 ---
 
-### 2023/1:
+### <span style="color:red">2023/1:</span>
 - [EST053 - Tópicos em Atuária: Métodos Computacionais para Análise de Risco](http://www.est.ufmg.br/~thaispaiva/MetComp/)
 - EST049 - Técnicas Atuariais II
 - EST072 - Estatística Econômica I

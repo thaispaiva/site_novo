@@ -8,7 +8,7 @@
 appearance:
   theme_day: earth    # some bult-in styles: Minimal, Coffee, Earth, Cyberpunk, Rose
   theme_night: minimal
-  font: classic   # built-in font sets: Minimal, Classic, Rose, Mr Robot, Cyberpunk
+  font: rose   # built-in font sets: Minimal, Classic, Rose, Mr Robot, Cyberpunk
   font_size: s   # Supported font sizes are xs, s, m, l, xl.
 
 # SEO

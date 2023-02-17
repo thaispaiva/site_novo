@@ -12,10 +12,14 @@ weight: 40
 title: Publications
 subtitle: ''
 
+## test: adding bib file
+bibliography: mybib.bib
+nocite: '@*'  # to add all citations to the bibliography
+link-citations: true
 ---
 
 
 <!-- Include html file with list of my references: -->
-```{r, echo=FALSE, results='asis'}
+<!--```{r, echo=FALSE, results='asis'}
 htmltools::includeHTML("../publication/mybib.html")
-```
+``` -->

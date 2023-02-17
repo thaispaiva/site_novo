@@ -14,7 +14,7 @@ subtitle: 'UFMG'
 
 ---
 
-### 2023/1:
+### <span style="color:red">2023/1:</span>
 - [EST053 - Tópicos em Atuária: Métodos Computacionais para Análise de Risco](http://www.est.ufmg.br/~thaispaiva/MetComp/)
 - EST049 - Técnicas Atuariais II
 - EST072 - Estatística Econômica I
