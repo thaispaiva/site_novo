@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings | Thaís Paiva</title>
+    <link>http://www.est.ufmg.br/~thaispaiva/teaching/</link>
+      <atom:link href="http://www.est.ufmg.br/~thaispaiva/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teachings</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://www.est.ufmg.br/~thaispaiva/media/icon_hu17b6dfc1a78624397f7472a5a1b65563_5042_512x512_fill_lanczos_center_3.png</url>
+      <title>Teachings</title>
+      <link>http://www.est.ufmg.br/~thaispaiva/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://www.est.ufmg.br/~thaispaiva/teaching/teaching_more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.est.ufmg.br/~thaispaiva/teaching/teaching_more/</guid>
+      <description>
+
+
+&lt;div id=&#34;section&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2023/1:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.est.ufmg.br/~thaispaiva/MetComp/&#34;&gt;EST053 - Tópicos em Atuária: Métodos Computacionais para Análise de Risco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;EST049 - Técnicas Atuariais II&lt;/li&gt;
+&lt;li&gt;EST072 - Estatística Econômica I&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;section-1&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2022:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;EST047 - Técnicas Atuariais I&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST049 - Técnicas Atuariais II&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST053 - Tópicos em Atuária: Métódos Computacionais para Análise de Risco&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST053 - Tópicos em Atuária: Preparação para o exame IBA&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST057 - Introdução à Estatística&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST179 - Introdução à Bioestatística&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;section-2&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2021:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;EST051 - Práticas Atuariais&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST052 - Tarifação de Seguros&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST053 - Tópicos em Atuária: Preparação para o exame IBA&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST188 - Laboratório de Estatística I&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST179 - Introdução à Bioestatística&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST083 - Bioestatística Básica&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST084 - Estatística aplicada à Psicologia&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;section-3&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2020:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;EST051 - Práticas Atuariais&lt;/li&gt;
+&lt;li&gt;EST053 - Tópicos em Atuária: Mét. Computacionais para Análise de Risco&lt;/li&gt;
+&lt;li&gt;EST179 - Introdução à Bioestatística&lt;/li&gt;
+&lt;li&gt;EST188 - Laboratório de Estatística I&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;a-2019&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2016 a 2019:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;EST047 - Técnicas Atuariais I&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST049 - Técnicas Atuariais II&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST051 - Práticas Atuariais&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST052 - Tarifação de Seguros&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST171 - Métodos Computacionais para Análise de Risco&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST031 - Estatística e Probabilidade&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST084 - Estatística aplicada à Psicologia&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EST179 - Introdução à Bioestatística&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://www.est.ufmg.br/~thaispaiva/sitemap.xml
