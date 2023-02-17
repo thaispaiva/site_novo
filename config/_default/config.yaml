@@ -12,8 +12,8 @@ publishDir: public
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-# defaultContentLanguage: pt
+# defaultContentLanguage: en
+defaultContentLanguage: pt
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

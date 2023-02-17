@@ -1,0 +1,25 @@
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: markdown
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Publicações
+subtitle: ''
+
+## test: adding bib file
+bibliography: mybib.bib
+nocite: '@*'  # to add all citations to the bibliography
+link-citations: true
+---
+
+
+<!-- Include html file with list of my references: -->
+<!--```{r, echo=FALSE, results='asis'}
+htmltools::includeHTML("../publication/mybib.html")
+``` -->
