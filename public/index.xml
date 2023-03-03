@@ -5,7 +5,7 @@
     <link>http://www.est.ufmg.br/~thaispaiva/</link>
       <atom:link href="http://www.est.ufmg.br/~thaispaiva/index.xml" rel="self" type="application/rss+xml" />
     <description>Thaís Paiva</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.est.ufmg.br/~thaispaiva/media/icon_hu17b6dfc1a78624397f7472a5a1b65563_5042_512x512_fill_lanczos_center_3.png</url>
       <title>Thaís Paiva</title>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Teaching</title>
+      <title>Ensino</title>
       <link>http://www.est.ufmg.br/~thaispaiva/teaching/teaching_more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://www.est.ufmg.br/~thaispaiva/teaching/teaching_more/</guid>
@@ -77,16 +77,36 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>http://www.est.ufmg.br/~thaispaiva/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.est.ufmg.br/~thaispaiva/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
+      <title>Publicações</title>
+      <link>http://www.est.ufmg.br/~thaispaiva/publication/publications_more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.est.ufmg.br/~thaispaiva/publication/publications_more/</guid>
+      <description>
+
+
+&lt;div style=&#34;line-height:2;&#34;&gt;
+
+&lt;div id=&#34;refs&#34; class=&#34;references csl-bib-body hanging-indent&#34; line-spacing=&#34;2&#34;&gt;
+&lt;div id=&#34;ref-Gam21&#34; class=&#34;csl-entry&#34;&gt;
+&lt;span class=&#34;nodecoration&#34;&gt;Gamerman, Dani, Marcos O Prates, Thais Paiva, &amp;amp; Vinicius D Mayrink&lt;/span&gt;. 2021. &lt;strong&gt;&lt;em&gt;Building a Platform for Data-Driven Pandemic Prediction: From Data Modelling to Visualisation – the CovidLP Project&lt;/em&gt;&lt;/strong&gt;&lt;span class=&#34;nodecoration&#34;&gt;. CRC Press&lt;/span&gt;. &lt;a href=&#34;https://www.routledge.com/9780367709976&#34;&gt;https://www.routledge.com/9780367709976&lt;/a&gt;.
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;ref-Pai17&#34; class=&#34;csl-entry&#34;&gt;
+&lt;span class=&#34;nodecoration&#34;&gt;Paiva, Thais, &amp;amp; Jerome P. Reiter&lt;/span&gt;. 2017. &lt;span&gt;“&lt;strong&gt;Stop or Continue Data Collection: A Nonignorable Missing Data Approach for Continuous Variables&lt;/strong&gt;.”&lt;/span&gt; &lt;em&gt;Journal of Official Statistics&lt;/em&gt; 33 (3): 579–99. &lt;a href=&#34;https://doi.org/10.1515/jos-2017-0028&#34;&gt;https://doi.org/10.1515/jos-2017-0028&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div id=&#34;ref-Pai15&#34; class=&#34;csl-entry&#34;&gt;
+&lt;span class=&#34;nodecoration&#34;&gt;Paiva, Thais, Renato Assunção, &amp;amp; Taynãna Simões&lt;/span&gt;. 2015. &lt;span&gt;“&lt;strong&gt;Prospective Space–Time Surveillance with Cumulative Surfaces for Geographical Identification of the Emerging Cluster&lt;/strong&gt;.”&lt;/span&gt; &lt;em&gt;Computational Statistics&lt;/em&gt; 30 (2): 419–40. &lt;a href=&#34;https://doi.org/10.1007/s00180-014-0541-y&#34;&gt;https://doi.org/10.1007/s00180-014-0541-y&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div id=&#34;ref-Fel14&#34; class=&#34;csl-entry&#34;&gt;
+&lt;span class=&#34;nodecoration&#34;&gt;Feldblum, Joseph T., Emily E. Wroblewski, Rebecca S. Rudicell, Beatrice H. Hahn, Thais Paiva, Mine Cetinkaya-Rundel, Anne E. Pusey, &amp;amp; Ian C. Gilby&lt;/span&gt;. 2014. &lt;span&gt;“&lt;strong&gt;Sexually Coercive Male Chimpanzees Sire More Offspring&lt;/strong&gt;.”&lt;/span&gt; &lt;em&gt;Current Biology&lt;/em&gt; 24 (23): 2855–60. https://doi.org/&lt;a href=&#34;http://dx.doi.org/10.1016/j.cub.2014.10.039&#34;&gt;http://dx.doi.org/10.1016/j.cub.2014.10.039&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div id=&#34;ref-Pai14&#34; class=&#34;csl-entry&#34;&gt;
+&lt;span class=&#34;nodecoration&#34;&gt;Paiva, Thais, Avishek Chakraborty, Jerry Reiter, &amp;amp; Alan Gelfand&lt;/span&gt;. 2014. &lt;span&gt;“&lt;strong&gt;Imputation of Confidential Data Sets with Spatial Locations Using Disease Mapping Models&lt;/strong&gt;.”&lt;/span&gt; &lt;em&gt;Statistics in Medicine&lt;/em&gt; 33 (11): 1928–45. &lt;a href=&#34;https://doi.org/10.1002/sim.6078&#34;&gt;https://doi.org/10.1002/sim.6078&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div id=&#34;ref-Pir14&#34; class=&#34;csl-entry&#34;&gt;
+&lt;span class=&#34;nodecoration&#34;&gt;Piroutek, Aline, Renato Assunção, &amp;amp; Thais Paiva&lt;/span&gt;. 2014. &lt;span&gt;“&lt;strong&gt;Space–Time Prospective Surveillance Based on Knox Local Statistics&lt;/strong&gt;.”&lt;/span&gt; &lt;em&gt;Statistics in Medicine&lt;/em&gt; 33 (16): 2758–73. &lt;a href=&#34;https://doi.org/10.1002/sim.6118&#34;&gt;https://doi.org/10.1002/sim.6118&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
 </description>
     </item>
     
@@ -109,44 +129,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>http://www.est.ufmg.br/~thaispaiva/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>http://www.est.ufmg.br/~thaispaiva/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.est.ufmg.br/~thaispaiva/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>http://www.est.ufmg.br/~thaispaiva/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://www.est.ufmg.br/~thaispaiva/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>

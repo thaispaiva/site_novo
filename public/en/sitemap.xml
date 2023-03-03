@@ -18,30 +18,10 @@
     <loc>http://www.est.ufmg.br/~thaispaiva/en/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.est.ufmg.br/~thaispaiva/publication-type/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.est.ufmg.br/~thaispaiva/en/publication-type/3/"
-                />
   </url><url>
     <loc>http://www.est.ufmg.br/~thaispaiva/en/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.est.ufmg.br/~thaispaiva/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.est.ufmg.br/~thaispaiva/en/publication/preprint/"
-                />
   </url><url>
     <loc>http://www.est.ufmg.br/~thaispaiva/en/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
@@ -74,16 +54,6 @@
     <loc>http://www.est.ufmg.br/~thaispaiva/en/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.est.ufmg.br/~thaispaiva/tag/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.est.ufmg.br/~thaispaiva/en/tag/source-themes/"
-                />
   </url><url>
     <loc>http://www.est.ufmg.br/~thaispaiva/en/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
@@ -186,58 +156,18 @@
     <loc>http://www.est.ufmg.br/~thaispaiva/en/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.est.ufmg.br/~thaispaiva/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.est.ufmg.br/~thaispaiva/en/publication-type/2/"
-                />
   </url><url>
     <loc>http://www.est.ufmg.br/~thaispaiva/en/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.est.ufmg.br/~thaispaiva/publication/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.est.ufmg.br/~thaispaiva/en/publication/journal-article/"
-                />
   </url><url>
     <loc>http://www.est.ufmg.br/~thaispaiva/en/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.est.ufmg.br/~thaispaiva/publication-type/1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.est.ufmg.br/~thaispaiva/en/publication-type/1/"
-                />
   </url><url>
     <loc>http://www.est.ufmg.br/~thaispaiva/en/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.est.ufmg.br/~thaispaiva/publication/conference-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.est.ufmg.br/~thaispaiva/en/publication/conference-paper/"
-                />
   </url><url>
     <loc>http://www.est.ufmg.br/~thaispaiva/en/admin/</loc>
     <changefreq>weekly</changefreq>
