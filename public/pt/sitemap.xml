@@ -2,21 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.est.ufmg.br/~thaispaiva/teaching/teaching_more/</loc>
+    <loc>http://www.est.ufmg.br/~thaispaiva/teaching/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.est.ufmg.br/~thaispaiva/en/teaching/teaching_more/"
+                href="http://www.est.ufmg.br/~thaispaiva/en/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://www.est.ufmg.br/~thaispaiva/teaching/teaching_more/"
+                href="http://www.est.ufmg.br/~thaispaiva/teaching/"
                 />
   </url><url>
-    <loc>http://www.est.ufmg.br/~thaispaiva/publication/publications_more/</loc>
+    <loc>http://www.est.ufmg.br/~thaispaiva/publications/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.est.ufmg.br/~thaispaiva/en/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://www.est.ufmg.br/~thaispaiva/publications/"
+                />
   </url><url>
     <loc>http://www.est.ufmg.br/~thaispaiva/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
@@ -153,32 +163,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://www.est.ufmg.br/~thaispaiva/publication_types/"
-                />
-  </url><url>
-    <loc>http://www.est.ufmg.br/~thaispaiva/publication/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.est.ufmg.br/~thaispaiva/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.est.ufmg.br/~thaispaiva/publication/"
-                />
-  </url><url>
-    <loc>http://www.est.ufmg.br/~thaispaiva/teaching/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.est.ufmg.br/~thaispaiva/en/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.est.ufmg.br/~thaispaiva/teaching/"
                 />
   </url>
 </urlset>

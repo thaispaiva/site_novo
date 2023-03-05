@@ -1,5 +1,5 @@
 ---
-bio: Meus interesses de pesquisa incluem Estatística Bayesiana, Métodos de Imputação para Dados Ausentes, Confidencialidade de Dados e Estatística Espacial.
+bio: Seus interesses de pesquisa incluem Estatística Bayesiana, Métodos de Imputação para Dados Ausentes, Confidencialidade de Dados e Estatística Espacial.
 education:
   courses:
   - course: PhD em Estatística
@@ -11,7 +11,7 @@ education:
   - course: Graduação em Ciências Atuariais
     institution: Universidade Federal de Minas Gerais
     year: 2008
-email: ""
+email: thaispaiva@est.ufmg.br
 first_name: Thaís
 last_name: Paiva
 highlight_name: true
@@ -27,7 +27,7 @@ role: Professora Adjunta - Departamento de Estatística
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:thaispaiva@est.ufmg.br
 # - display:
 #     header: true
 #   icon: twitter
@@ -48,12 +48,9 @@ superuser: true
 title: Thaís Paiva Galletti
 ---
 
-Sou professora do Departamento de Estatística da Universidade Federal de Minas Gerais (UFMG) desde 2016. Meus interesses de pesquisa incluem **Estatística Bayesiana**, **Métodos de Imputação para Dados Sintéticos**, **Confidencialidade de Dados** e **Estatística Espacial**.
+Professora do [Departamento de Estatística](http://est.ufmg.br/portal/) da Universidade Federal de Minas Gerais (UFMG) desde 2016. Possui graduação em Ciências Atuariais pela [UFMG](https://ufmg.br/), mestrado em Estatística também pela UFMG, e doutorado em Estatística na [Duke University](https://stat.duke.edu/), EUA.
 
-Possuo graduação em Ciências Atuariais pela UFMG, mestrado em Estatística também pela UFMG, e doutorado em Estatística na Duke University, EUA. 
-
-Alguns dos meus projetos de pesquisa incluem simulação de coordenadas geográficas sintéticas para bases de dados confidenciais, imputação de variáveis aleatórias contínuas multivariadas para dados ausentes não aleatórios, e modelos de design adaptativo para pesquisas sociais.
-
+Alguns dos seus projetos de pesquisa incluem **métodos de imputação para dados sintéticos**, simulação de **coordenadas geográficas sintéticas** para bases de dados confidenciais, e imputação de variáveis aleatórias contínuas multivariadas para dados ausentes não aleatórios.
 
 <!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

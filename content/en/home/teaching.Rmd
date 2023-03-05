@@ -12,6 +12,11 @@ weight: 30
 title: Teaching
 subtitle: 'UFMG'
 
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["15px", "0", "15px", "10px"]
+
 ---
 
 ### <span style="color:red">2023/1:</span>
@@ -29,7 +34,7 @@ subtitle: 'UFMG'
 - EST057 - Intro to Statistics
 - EST179 - Intro to Biostatistics
 
-### [2016 to 2021](./teaching/teaching_more)
+### [2016 to 2021](./teaching)
 
 <!--
 ### 2021:

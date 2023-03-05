@@ -34,4 +34,4 @@ csl: mychicago-manual-of-style-17th-edition.csl
 
 <div>
 
-### [**Ver mais**](./publication/publications_more)
+### [**Ver mais**](./publications)

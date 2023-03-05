@@ -39,7 +39,9 @@ design:
 
 -   EST179 - Introdução à Bioestatística
 
-### [2016 a 2021](./teaching/teaching_more)
+
+### [2016 a 2021](./teaching)
+<!-- ### [2016 a 2021](./teaching/teaching_more) -->
 
 ```{=html}
 <!--

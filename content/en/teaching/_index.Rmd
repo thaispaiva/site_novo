@@ -12,7 +12,6 @@ weight: 30
 
 title: Teaching
 subtitle: UFMG
-date: FALSE
 
 ---
 

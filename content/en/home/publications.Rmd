@@ -9,17 +9,29 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["15px", "0", "15px", "10px"]
+
 title: Publications
 subtitle: ''
 
 ## test: adding bib file
 bibliography: mybib.bib
-nocite: '@*'  # to add all citations to the bibliography
+# nocite: '@*'  # to add all citations to the bibliography
+nocite: |
+  @Gam21, @Pai17, @Pai14
 link-citations: true
+
+csl: mychicago-manual-of-style-17th-edition.csl
 ---
 
+<div style="line-height:2;">
 
-<!-- Include html file with list of my references: -->
-<!--```{r, echo=FALSE, results='asis'}
-htmltools::includeHTML("../publication/mybib.html")
-``` -->
+::: {#refs}
+:::
+
+<div>
+
+### [**See more**](./publications)
