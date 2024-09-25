@@ -15,10 +15,18 @@ subtitle: UFMG
 
 ---
 
-### <span style="color:red">2023/1:</span>
+### <span style="color:red">2024/2:</span>
 - [EST053 - Computational Methods for Risk Analysis](http://www.est.ufmg.br/~thaispaiva/MetComp/)
+- EST047 - Actuarial Mathematics I
+
+### 2023:
+- EST047 - Actuarial Mathematics I
 - EST049 - Actuarial Mathematics II
-- EST072 - Economic Statistics I
+- EST053 - Computational Methods for Risk Analysis
+- EST053 - Actuary Topics: IBA Exam Preparation 
+&nbsp;  
+
+- EST179 - Intro to Biostatistics
 
 ### 2022:
 - EST047 - Actuarial Mathematics I
