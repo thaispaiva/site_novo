@@ -19,8 +19,13 @@ design:
 
 ---
 
-### <span style="color:red">2024/2:</span>
-- [EST053 - Computational Methods for Risk Analysis](http://www.est.ufmg.br/~thaispaiva/MetComp/)
+### <span style="color:red">2025/1:</span>
+- EST052 - Insurance Tariffing
+- EST049 - Actuarial Mathematics II
+- EST188 - Statistical Lab I
+
+### 2024/2:
+- EST053 - Computational Methods for Risk Analysis
 - EST047 - Actuarial Mathematics I
 
 ### 2023:

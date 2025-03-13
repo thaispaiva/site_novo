@@ -18,9 +18,18 @@ design:
     padding: ["15px", "0", "15px", "10px"]
 ---
 
-### [2024/2:]{style="color:red"}
+### [2025/1:]{style="color:red"}
 
--   [EST053 - Tópicos em Atuária: Métodos Computacionais para Análise de Risco](http://www.est.ufmg.br/~thaispaiva/MetComp/)
+-   EST052 - Tarifação de Seguros
+
+-   EST049 - Técnicas Atuariais II
+
+-   EST188 - Laboratório de Estatística I
+
+
+### 2024/2:
+
+-   EST053 - Tópicos em Atuária: Métodos Computacionais para Análise de Risco
 
 -   EST047 - Técnicas Atuariais I
 

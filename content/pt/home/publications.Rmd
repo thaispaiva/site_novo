@@ -21,7 +21,7 @@ subtitle: ''
 bibliography: mybib.bib
 # nocite: '@*'  # to add all citations to the bibliography
 nocite: |
-  @Gam21, @Pai17, @Pai14
+  @MaPaOl2024, @Gam21, @Pai17, @Pai14
 link-citations: true
 
 csl: mychicago-manual-of-style-17th-edition.csl
